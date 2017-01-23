@@ -1,0 +1,51 @@
+F:\college management system\College Management System\College Management System\bin\Debug\College Management System.exe.config
+F:\college management system\College Management System\College Management System\bin\Debug\College Management System.exe
+F:\college management system\College Management System\College Management System\bin\Debug\College Management System.pdb
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.FormLogin.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
+F:\college management system\College Management System\College Management System\obj\Debug\College Management System.exe
+F:\college management system\College Management System\College Management System\obj\Debug\College Management System.pdb
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.FormPrinciple.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.FormTeacher.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.FormAllStu.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.Formedit_stu.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.FormAllTeacher.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.FormUpdateTeacher.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.FormAllAccountant.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.FormUpdateAccountant.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.Accountan_Form.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.ShowStudentAccount.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.StudentBalance.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College_Management_System.TeacherSalaryForm.resources
+F:\college management system\College Management System\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+F:\college management system\College Management System\College Management System\bin\Debug\mscorlib.dll
+F:\college management system\College Management System\College Management System\bin\Debug\normidna.nlp
+F:\college management system\College Management System\College Management System\bin\Debug\normnfc.nlp
+F:\college management system\College Management System\College Management System\bin\Debug\normnfd.nlp
+F:\college management system\College Management System\College Management System\bin\Debug\normnfkc.nlp
+F:\college management system\College Management System\College Management System\bin\Debug\normnfkd.nlp
+F:\8th semester\C#\College_Management_System-master-d3472b4245ff6cd5ac88737fd7212385ffcc519d\College Management System\College Management System\bin\Debug\College Management System.exe.config
+F:\8th semester\C#\College_Management_System-master-d3472b4245ff6cd5ac88737fd7212385ffcc519d\College Management System\College Management System\obj\Debug\College Management System.exe
+F:\8th semester\C#\College_Management_System-master-d3472b4245ff6cd5ac88737fd7212385ffcc519d\College Management System\College Management System\obj\Debug\College Management System.pdb
+F:\8th semester\C#\College Management System\College Management System\bin\Debug\College Management System.exe.config
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College Management System.exe
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College Management System.pdb
+F:\8th semester\C#\College Management System\College Management System\bin\Debug\College Management System.exe
+F:\8th semester\C#\College Management System\College Management System\bin\Debug\College Management System.pdb
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College Management System.csprojResolveAssemblyReference.cache
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.Accountan_Form.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.FormLogin.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.FormAllAccountant.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.FormAllStu.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.FormAllTeacher.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.Formedit_stu.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.FormPrinciple.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.FormTeacher.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.FormUpdateAccountant.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.FormUpdateTeacher.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.ShowStudentAccount.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.StudentBalance.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College_Management_System.TeacherSalaryForm.resources
+F:\8th semester\C#\College Management System\College Management System\obj\Debug\College Management System.csproj.GenerateResource.Cache
